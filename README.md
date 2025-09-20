@@ -13,8 +13,8 @@ Build an accurate and robust machine learning model to predict house prices base
 ## 📁 Dataset
 
 - **Dataset**: Ames Housing Dataset (`AmesHousing.csv`)
-- **Records**: 2,900+ houses
-- **Features**: 80+ property characteristics
+- **Records**: 2,930 houses
+- **Features**: 82 property characteristics
 - **Target Variable**: SalePrice (transformed to log scale)
 
 ## 🛠️ Technologies Used
