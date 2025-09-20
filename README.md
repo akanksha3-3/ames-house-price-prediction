@@ -19,7 +19,7 @@ Build an accurate and robust machine learning model to predict house prices base
 
 ## 🛠️ Technologies Used
 
-- **Python 3.x**
+- **Python 3.12.6**
 - **Libraries**:
   - `pandas` - Data manipulation and analysis
   - `numpy` - Numerical computing
